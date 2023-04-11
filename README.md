@@ -5,7 +5,7 @@
 |Tech Stack|   |
 |----|----|
 |FrameWork | Django|
-|DB | Mysql (변경 될 수도 있음)|
+|DB | Mysql|
 |Design Tool | Adobe XD|
 
 
