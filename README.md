@@ -1,4 +1,4 @@
-# Django_practice
+# Portfolio Django
 
 장고를 활용한 파이썬 복습
 
