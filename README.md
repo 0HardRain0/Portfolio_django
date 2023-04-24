@@ -22,4 +22,4 @@
 ### 디자인 상황
 
 간단한 포트폴리오 사이트를 제작하는 것인데 디자인하는 것이 생각보다 쉽지가 않고 빠르게 디자인 마무리하면서 사이트 구축해 나갈 생각임.
-![포트폴리오사이트XD_ver2](https://user-images.githubusercontent.com/45348509/230382534-7a8b870c-f43a-45b4-b44f-25754361ef76.JPG)
+<img width="873" alt="portfolio_XD" src="https://user-images.githubusercontent.com/45348509/234021281-f65cbfe2-47dd-426f-b3a5-349ac52e8a84.png">
